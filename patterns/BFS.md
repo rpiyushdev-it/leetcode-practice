@@ -48,3 +48,12 @@ Problems:
 
 References:
 1) https://labuladong.online/en/algo/essential-technique/bfs-framework/
+2) https://crackingwalnuts.com/dsa-templates/bfs-template
+3) https://cp-algorithms.com/graph/01_bfs.html
+4) https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
+5) https://github.com/topics/bfs-dfs?l=c%2B%2B&o=asc&s=updated
+6) https://github.com/Uknowndynamic/Graph-Algorithms-and-Problems
+7) https://github.com/AbdullahArean/Design-And-Analysis-Of-Algorithm-Data-Structure
+8) https://leetcode.com/discuss/post/1833581/bfs-and-its-variations-by-c0d3m-o47u/
+9) https://coderraj07.medium.com/graph-bfs-mastery-all-problems-0-10-in-python-javascript-java-b92ad61e090c
+10) https://www.reddit.com/r/leetcode/comments/16rb11m/try_this_pattern_for_breadth_first_search/
