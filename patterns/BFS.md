@@ -42,7 +42,9 @@ int bfs(const Graph& graph, int s, int target) {
 
 ```
 
-
+Problems:
+1) Sliding Puzzle: https://leetcode.com/problems/sliding-puzzle/description/
+2) Open the lock: https://leetcode.com/problems/open-the-lock/description/
 
 References:
 1) https://labuladong.online/en/algo/essential-technique/bfs-framework/
