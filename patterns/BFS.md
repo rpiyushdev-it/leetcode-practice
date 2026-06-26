@@ -11,6 +11,7 @@ int bfs(const Graph& graph, int s, int target) {
     queue<int> q;
     q.push(s);
     visited[s] = true;
+
     // record the number of steps taken from s to the current node taken
     int step = 0;
     while (!q.empty()) {
@@ -19,10 +20,12 @@ int bfs(const Graph& graph, int s, int target) {
             int cur = q.front();
             q.pop();
             cout << "visit " << cur << "at step " << step << endl;
+
             // determine if the target point is reached
             if (cur == target) {
                 return step;
             }
+
             // add the neighbors to the queue to search around
             for (int to : neighbourOf(cur)) {
                 if (!visited[to]) {
